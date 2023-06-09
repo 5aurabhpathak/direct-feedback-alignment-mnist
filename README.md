@@ -1,2 +1,2 @@
-# neural-net-training-algorithms
-Alternative algorithms to back propagation for training deep and shallow neural networks
+# Direct Feedback Alignment (DFA) on MNIST
+basic implementation of neural network training with DFA method on MNIST dataset
